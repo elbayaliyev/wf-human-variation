@@ -25,7 +25,7 @@ workflow str {
     // turn ref channel into value channel so it can be used more than once
     ref_as_value = ref_channel.collect()
 
-    str_list = projectDir.resolve("./data/wf_str_repeats.bed").toString()
+    str_list = projectDir.resolve("./data/STRchive-disease-loci.hg38.straglr.bed").toString()
     variant_catalogue_hg38 = projectDir.resolve("./data/variant_catalog_hg38.json").toString()
 
     // call straglr and get annotations per contig
