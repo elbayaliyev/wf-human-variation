@@ -220,7 +220,9 @@ workflow {
     }
 
     // Trigger the SNP workflow based on a range of different conditions:
-    def run_snp = params.snp || run_haplotagging || (params.cnv && !params.use_qdnaseq)
+    //def run_snp = params.snp || run_haplotagging || (params.cnv && !params.use_qdnaseq)
+    def run_snp = params.snp || (params.phased || (params.cnv && !params.use_qdnaseq))
+
 
     reference = prepare_reference([
         "input_ref": params.ref,
