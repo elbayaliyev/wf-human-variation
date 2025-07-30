@@ -220,8 +220,8 @@ workflow {
     }
 
     // Trigger the SNP workflow based on a range of different conditions:
-    //def run_snp = params.snp || run_haplotagging || (params.cnv && !params.use_qdnaseq)
-    def run_snp = params.snp || (params.phased || (params.cnv && !params.use_qdnaseq))
+    def run_snp = params.snp || run_haplotagging || (params.cnv && !params.use_qdnaseq)
+    //def run_snp = params.snp || (params.phased || (params.cnv && !params.use_qdnaseq))
 
 
     reference = prepare_reference([
@@ -937,8 +937,8 @@ workflow {
     // wf-human-str
     if (params.str) {
         // use haplotagged bam from snp() as input to str()
-        //bam_channel_str = clair_vcf.str_bams
-        bam_channel_str = (params.snp || params.phased) ? clair_vcf.str_bams : pass_bam_channel
+        bam_channel_str = clair_vcf.str_bams
+        //bam_channel_str = (params.snp || params.phased) ? clair_vcf.str_bams : pass_bam_channel
 
 
         results_str = str(
