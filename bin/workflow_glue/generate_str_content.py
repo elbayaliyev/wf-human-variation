@@ -99,6 +99,15 @@ def extract_sequences(bam, merged_tsv):
                 chrom = merged_varid['bed_chr'].values[0]
                 repeat_start = merged_varid['read_start'].values[0]
                 size = merged_varid['size'].values[0]
+
+
+                print(f"[DEBUG] strand: {strand}")
+                print(f"[DEBUG] chrom: {chrom}")
+                print(f"[DEBUG] repeat_start: {repeat_start}")
+                print(f"[DEBUG] size: {size}")
+                print(f"[DEBUG] STR_NORMAL_MAX raw: {merged_varid['STR_NORMAL_MAX'].values[0]}")
+                print(f"[DEBUG] STR_PATHOLOGIC_MIN raw: {merged_varid['STR_PATHOLOGIC_MIN'].values[0]}")
+
                 str_normal_max = int(merged_varid['STR_NORMAL_MAX'].values[0])
                 str_pathologic_min = int(merged_varid['STR_PATHOLOGIC_MIN'].values[0])
 
