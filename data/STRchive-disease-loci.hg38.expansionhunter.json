@@ -1,8 +1,8 @@
 [
 {
   "LocusId": "HMNR7_VWA1",
-  "LocusStructure": "(GGCGCGGAGC)*",
   "ReferenceRegion": "chr1:1435798-1435818",
+  "LocusStructure": "(GGCGCGGAGC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AR"],
@@ -14,8 +14,8 @@
 },
 {
   "LocusId": "SCA37_DAB1",
+  "ReferenceRegion": "chr1:57367043-57367121",
   "LocusStructure": "(AAAAT)*(GAAAT)*",
-  "ReferenceRegion": ["chr1:57367008-57367043", "chr1:57367043-57367121"],
   "VariantType": ["Repeat", "Repeat"],
   "VariantId": ["SCA37_DAB1_AAAAT", "SCA37_DAB1"],
   "HGNCId": null,
@@ -28,8 +28,8 @@
 },
 {
   "LocusId": "OPDM5_ABCD3",
-  "LocusStructure": "(GCC)*",
   "ReferenceRegion": "chr1:94418421-94418444",
+  "LocusStructure": "(GCC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -41,8 +41,8 @@
 },
 {
   "LocusId": "NIID_NOTCH2NLC",
-  "LocusStructure": "(GGC)*",
   "ReferenceRegion": "chr1:149390802-149390842",
+  "LocusStructure": "(GGC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -54,8 +54,8 @@
 },
 {
   "LocusId": "ADTKD_MUC1",
-  "LocusStructure": "(GCCCACGGTGTCACCTCGGCCCCGGACACCAGGCCGGCCCCGGGCTCCACCGCCCCCCCCA)*",
   "ReferenceRegion": "chr1:155188505-155192239",
+  "LocusStructure": "(GCCCACGGTGTCACCTCGGCCCCGGACACCAGGCCGGCCCCGGGCTCCACCGCCCCCCCCA)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -67,8 +67,8 @@
 },
 {
   "LocusId": "NME_NAXE",
-  "LocusStructure": "(GGGCC)*",
   "ReferenceRegion": "chr1:156591765-156591783",
+  "LocusStructure": "(GGGCC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AR"],
@@ -80,8 +80,8 @@
 },
 {
   "LocusId": "FAME2_STARD7",
-  "LocusStructure": "(AAATG)*",
   "ReferenceRegion": "chr2:96197066-96197124",
+  "LocusStructure": "(AAATG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -93,8 +93,8 @@
 },
 {
   "LocusId": "FRA2A_AFF3",
-  "LocusStructure": "(GCC)*",
   "ReferenceRegion": "chr2:100104798-100104824",
+  "LocusStructure": "(GCC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -106,8 +106,8 @@
 },
 {
   "LocusId": "SD5_HOXD13",
-  "LocusStructure": "(GCN)*",
   "ReferenceRegion": "chr2:176093058-176093103",
+  "LocusStructure": "(GCN)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -119,8 +119,8 @@
 },
 {
   "LocusId": "GDPAG_GLS",
-  "LocusStructure": "(GCA)*",
   "ReferenceRegion": "chr2:190880872-190880920",
+  "LocusStructure": "(GCA)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AR"],
@@ -132,8 +132,8 @@
 },
 {
   "LocusId": "SCA7_ATXN7",
+  "ReferenceRegion": "chr3:63912684-63912715",
   "LocusStructure": "(CAG)*(CCG)*",
-  "ReferenceRegion": ["chr3:63912684-63912715", "chr3:63912715-63912727"],
   "VariantType": ["Repeat", "Repeat"],
   "VariantId": ["SCA7_ATXN7", "SCA7_ATXN7_CCG"],
   "HGNCId": null,
@@ -146,8 +146,8 @@
 },
 {
   "LocusId": "DM2_CNBP",
+  "ReferenceRegion": "chr3:129172576-129172656",
   "LocusStructure": "(CAGG)*(CAGA)*(CA)*",
-  "ReferenceRegion": ["chr3:129172576-129172656", "chr3:129172656-129172696", "chr3:129172696-129172734"],
   "VariantType": ["Repeat", "Repeat", "Repeat"],
   "VariantId": ["DM2_CNBP", "DM2_CNBP_CAGA", "DM2_CNBP_CA"],
   "HGNCId": null,
@@ -160,8 +160,8 @@
 },
 {
   "LocusId": "BPES_FOXL2",
-  "LocusStructure": "(NGC)*",
   "ReferenceRegion": "chr3:138946019-138946062",
+  "LocusStructure": "(NGC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD", "AR"],
@@ -173,8 +173,8 @@
 },
 {
   "LocusId": "FAME4_YEATS2",
-  "LocusStructure": "(TTTCA)*",
   "ReferenceRegion": "chr3:183712187-183712226",
+  "LocusStructure": "(TTTCA)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -186,8 +186,8 @@
 },
 {
   "LocusId": "HD_HTT",
+  "ReferenceRegion": "chr4:3074876-3074933",
   "LocusStructure": "(CAG)*CAACAG(CCG)*",
-  "ReferenceRegion": ["chr4:3074876-3074933", "chr4:3074939-3074975"],
   "VariantType": ["Repeat", "Repeat"],
   "VariantId": ["HD_HTT", "HD_HTT_CCG"],
   "HGNCId": null,
@@ -200,8 +200,8 @@
 },
 {
   "LocusId": "CANVAS_RFC1",
-  "LocusStructure": "(AAGGG)*",
   "ReferenceRegion": "chr4:39348424-39348483",
+  "LocusStructure": "(AAGGG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AR"],
@@ -213,8 +213,8 @@
 },
 {
   "LocusId": "CCHS_PHOX2B",
-  "LocusStructure": "(GCN)*",
   "ReferenceRegion": "chr4:41745972-41746032",
+  "LocusStructure": "(GCN)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -226,8 +226,8 @@
 },
 {
   "LocusId": "FAME7_RAPGEF2",
-  "LocusStructure": "(TTTCA)*",
   "ReferenceRegion": "chr4:159342526-159342618",
+  "LocusStructure": "(TTTCA)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -239,8 +239,8 @@
 },
 {
   "LocusId": "FAME3_MARCHF6",
-  "LocusStructure": "(TTTCA)*",
   "ReferenceRegion": "chr5:10356343-10356411",
+  "LocusStructure": "(TTTCA)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -252,8 +252,8 @@
 },
 {
   "LocusId": "SCA12_PPP2R2B",
-  "LocusStructure": "(GCT)*",
   "ReferenceRegion": "chr5:146878727-146878759",
+  "LocusStructure": "(GCT)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -265,8 +265,8 @@
 },
 {
   "LocusId": "SCA1_ATXN1",
-  "LocusStructure": "(CTG)*",
   "ReferenceRegion": "chr6:16327633-16327724",
+  "LocusStructure": "(CTG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -278,8 +278,8 @@
 },
 {
   "LocusId": "CCD_RUNX2",
-  "LocusStructure": "(GCN)*",
   "ReferenceRegion": "chr6:45422750-45422801",
+  "LocusStructure": "(GCN)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -291,8 +291,8 @@
 },
 {
   "LocusId": "SCA17_TBP",
-  "LocusStructure": "(GCA)*",
   "ReferenceRegion": "chr6:170561906-170562017",
+  "LocusStructure": "(GCA)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -304,8 +304,8 @@
 },
 {
   "LocusId": "HFG_HOXA13-III",
-  "LocusStructure": "(NGC)*",
   "ReferenceRegion": "chr7:27199678-27199732",
+  "LocusStructure": "(NGC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -317,8 +317,8 @@
 },
 {
   "LocusId": "HFG_HOXA13-II",
-  "LocusStructure": "(NGC)*",
   "ReferenceRegion": "chr7:27199825-27199861",
+  "LocusStructure": "(NGC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -330,8 +330,8 @@
 },
 {
   "LocusId": "HFG_HOXA13-I",
-  "LocusStructure": "(NGC)*",
   "ReferenceRegion": "chr7:27199924-27199966",
+  "LocusStructure": "(NGC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -343,8 +343,8 @@
 },
 {
   "LocusId": "FRA7A_ZNF713",
-  "LocusStructure": "(GCG)*",
   "ReferenceRegion": "chr7:55887600-55887639",
+  "LocusStructure": "(GCG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -356,8 +356,8 @@
 },
 {
   "LocusId": "OPDM1_LRP12",
-  "LocusStructure": "(CGC)*",
   "ReferenceRegion": "chr8:104588970-104588999",
+  "LocusStructure": "(CGC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -369,8 +369,8 @@
 },
 {
   "LocusId": "FAME1_SAMD12",
-  "LocusStructure": "(TGAAA)*",
   "ReferenceRegion": "chr8:118366812-118366918",
+  "LocusStructure": "(TGAAA)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -382,8 +382,8 @@
 },
 {
   "LocusId": "FTDALS1_C9orf72",
-  "LocusStructure": "(GGCCCC)*",
   "ReferenceRegion": "chr9:27573484-27573546",
+  "LocusStructure": "(GGCCCC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -395,8 +395,8 @@
 },
 {
   "LocusId": "FRDA_FXN",
+  "ReferenceRegion": "chr9:69037286-69037304",
   "LocusStructure": "(A)*(GAA)*",
-  "ReferenceRegion": ["chr9:69037270-69037286", "chr9:69037286-69037304"],
   "VariantType": ["Repeat", "Repeat"],
   "VariantId": ["FRDA_FXN_A", "FRDA_FXN"],
   "HGNCId": null,
@@ -409,8 +409,8 @@
 },
 {
   "LocusId": "HSAN-VIII_PRDM12",
-  "LocusStructure": "(GCC)*",
   "ReferenceRegion": "chr9:130681605-130681641",
+  "LocusStructure": "(GCC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AR"],
@@ -422,8 +422,8 @@
 },
 {
   "LocusId": "OPML1_NUTM2B-AS1",
-  "LocusStructure": "(GGC)*",
   "ReferenceRegion": "chr10:79826383-79826404",
+  "LocusStructure": "(GGC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -435,8 +435,8 @@
 },
 {
   "LocusId": "JBS_CBL",
-  "LocusStructure": "(CGG)*",
   "ReferenceRegion": "chr11:119206289-119206323",
+  "LocusStructure": "(CGG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -448,8 +448,8 @@
 },
 {
   "LocusId": "DRPLA_ATN1",
-  "LocusStructure": "(CAG)*",
   "ReferenceRegion": "chr12:6936716-6936775",
+  "LocusStructure": "(CAG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -461,8 +461,8 @@
 },
 {
   "LocusId": "FRA12A_DIP2B",
-  "LocusStructure": "(GGC)*",
   "ReferenceRegion": "chr12:50505001-50505024",
+  "LocusStructure": "(GGC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -474,8 +474,8 @@
 },
 {
   "LocusId": "SCA2_ATXN2",
-  "LocusStructure": "(CTG)*",
   "ReferenceRegion": "chr12:111598949-111599019",
+  "LocusStructure": "(CTG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD", "AR"],
@@ -487,8 +487,8 @@
 },
 {
   "LocusId": "OPDM4_RILPL1",
-  "LocusStructure": "(GGC)*",
   "ReferenceRegion": "chr12:123533720-123533750",
+  "LocusStructure": "(GGC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -500,8 +500,8 @@
 },
 {
   "LocusId": "SCA8_ATXN8OS",
+  "ReferenceRegion": "chr13:70139383-70139429",
   "LocusStructure": "(CTA)*(CTG)*",
-  "ReferenceRegion": ["chr13:70139353-70139383", "chr13:70139383-70139429"],
   "VariantType": ["Repeat", "Repeat"],
   "VariantId": ["SCA8_ATXN8OS_CTA", "SCA8_ATXN8OS"],
   "HGNCId": null,
@@ -514,8 +514,8 @@
 },
 {
   "LocusId": "HPE5_ZIC2",
-  "LocusStructure": "(GCN)*",
   "ReferenceRegion": "chr13:99985448-99985494",
+  "LocusStructure": "(GCN)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -527,8 +527,8 @@
 },
 {
   "LocusId": "SCA27B_FGF14",
-  "LocusStructure": "(GAA)*",
   "ReferenceRegion": "chr13:102161574-102161726",
+  "LocusStructure": "(GAA)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -540,8 +540,8 @@
 },
 {
   "LocusId": "OPMD_PABPN1",
-  "LocusStructure": "(GCN)*",
   "ReferenceRegion": "chr14:23321472-23321503",
+  "LocusStructure": "(GCN)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD", "AR"],
@@ -553,8 +553,8 @@
 },
 {
   "LocusId": "SCA3_ATXN3",
-  "LocusStructure": "(CTG)*",
   "ReferenceRegion": "chr14:92071010-92071052",
+  "LocusStructure": "(CTG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -566,8 +566,8 @@
 },
 {
   "LocusId": "ALS1_NIPA1",
-  "LocusStructure": "(GCG)*",
   "ReferenceRegion": "chr15:22786677-22786703",
+  "LocusStructure": "(GCG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -579,8 +579,8 @@
 },
 {
   "LocusId": "pre-MIR7-2_CHNG3",
-  "LocusStructure": "(TTTG)*",
   "ReferenceRegion": "chr15:88569433-88569452",
+  "LocusStructure": "(TTTG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -592,8 +592,8 @@
 },
 {
   "LocusId": "CPEO_POLG",
+  "ReferenceRegion": "chr15:89333588-89333629",
   "LocusStructure": "(GCT)*GTT(GCT)*",
-  "ReferenceRegion": ["chr15:89333579-89333585", "chr15:89333588-89333629"],
   "VariantType": ["Repeat", "Repeat"],
   "VariantId": ["CPEO_POLG_GCT", "CPEO_POLG"],
   "HGNCId": null,
@@ -606,8 +606,8 @@
 },
 {
   "LocusId": "DBQD2_XYLT1",
+  "ReferenceRegion": "chr16:17470907-17470922",
   "LocusStructure": "(GCC)*",
-  "ReferenceRegion": ["chr16:17470907-17470922"],
   "VariantType": ["Repeat"],
   "VariantId": ["DBQD2_XYLT1"],
   "HGNCId": null,
@@ -620,8 +620,8 @@
 },
 {
   "LocusId": "FAME6_TNRC6A",
-  "LocusStructure": "(TTTCA)*",
   "ReferenceRegion": "chr16:24613438-24613532",
+  "LocusStructure": "(TTTCA)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -633,8 +633,8 @@
 },
 {
   "LocusId": "SCA31_BEAN1",
-  "LocusStructure": "(TGGAA)*",
   "ReferenceRegion": "chr16:66490396-66490466",
+  "LocusStructure": "(TGGAA)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -646,8 +646,8 @@
 },
 {
   "LocusId": "SCA_THAP11",
-  "LocusStructure": "(CAG)*",
   "ReferenceRegion": "chr16:67842862-67842950",
+  "LocusStructure": "(CAG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -659,8 +659,8 @@
 },
 {
   "LocusId": "SCA4_ZFHX3",
-  "LocusStructure": "(GCC)*",
   "ReferenceRegion": "chr16:72787694-72787758",
+  "LocusStructure": "(GCC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -672,8 +672,8 @@
 },
 {
   "LocusId": "HDL2_JPH3",
-  "LocusStructure": "(CTG)*",
   "ReferenceRegion": "chr16:87604282-87604329",
+  "LocusStructure": "(CTG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -685,8 +685,8 @@
 },
 {
   "LocusId": "FAME8_RAI1",
-  "LocusStructure": "(TTTCA)*",
   "ReferenceRegion": "chr17:17808358-17808460",
+  "LocusStructure": "(TTTCA)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -698,8 +698,8 @@
 },
 {
   "LocusId": "RCPS_EIF4A3",
-  "LocusStructure": "(CCTCGCTGTGCCGCTGCCGA)*",
   "ReferenceRegion": "chr17:80147009-80147139",
+  "LocusStructure": "(CCTCGCTGTGCCGCTGCCGA)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AR"],
@@ -711,8 +711,8 @@
 },
 {
   "LocusId": "CPUM_TYMS",
-  "LocusStructure": "(GATGGT)*",
   "ReferenceRegion": "chr18:666891-667632",
+  "LocusStructure": "(GATGGT)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AR"],
@@ -724,8 +724,8 @@
 },
 {
   "LocusId": "FECD3_TCF4",
-  "LocusStructure": "(CAG)*",
   "ReferenceRegion": "chr18:55586153-55586229",
+  "LocusStructure": "(CAG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -737,8 +737,8 @@
 },
 {
   "LocusId": "MRUPAV_PLIN4",
-  "LocusStructure": "(TGGTGTCCACGCCGGTCTGGATGGTTCCTTTGGCCACATTCATGGCACCAGTCACCCCACTACAGACGGTGTCCTTGGTACCTGTTAGGACAGTCTTAC)*",
   "ReferenceRegion": "chr19:4510727-4513659",
+  "LocusStructure": "(TGGTGTCCACGCCGGTCTGGATGGTTCCTTTGGCCACATTCATGGCACCAGTCACCCCACTACAGACGGTGTCCTTGGTACCTGTTAGGACAGTCTTAC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -750,8 +750,8 @@
 },
 {
   "LocusId": "SCA6_CACNA1A",
-  "LocusStructure": "(CTG)*",
   "ReferenceRegion": "chr19:13207858-13207898",
+  "LocusStructure": "(CTG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -763,8 +763,8 @@
 },
 {
   "LocusId": "OPDM2_GIPC1",
-  "LocusStructure": "(CCG)*",
   "ReferenceRegion": "chr19:14496041-14496075",
+  "LocusStructure": "(CCG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -776,8 +776,8 @@
 },
 {
   "LocusId": "EDM1-PSACH_COMP",
-  "LocusStructure": "(GTC)*",
   "ReferenceRegion": "chr19:18786034-18786050",
+  "LocusStructure": "(GTC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -789,8 +789,8 @@
 },
 {
   "LocusId": "DM1_DMPK",
-  "LocusStructure": "(CAG)*",
   "ReferenceRegion": "chr19:45770204-45770266",
+  "LocusStructure": "(CAG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -802,8 +802,8 @@
 },
 {
   "LocusId": "SCA36_NOP56",
+  "ReferenceRegion": "chr20:2652732-2652757",
   "LocusStructure": "(GGCCTG)*(CGCCTG)*",
-  "ReferenceRegion": ["chr20:2652732-2652757", "chr20:2652757-2652775"],
   "VariantType": ["Repeat", "Repeat"],
   "VariantId": ["SCA36_NOP56", "SCA36_NOP56_CGCCTG"],
   "HGNCId": null,
@@ -816,8 +816,8 @@
 },
 {
   "LocusId": "CJD_PRNP",
+  "ReferenceRegion": "chr20:4699397-4699493",
   "LocusStructure": "(CCTCAGGGCGGTGGTGGCTGGGGGCAG)*(CCTCATGGTGGTGGCTGGGGGCAG)*",
-  "ReferenceRegion": ["chr20:4699370-4699397", "chr20:4699397-4699493"],
   "VariantType": ["Repeat", "Repeat"],
   "VariantId": ["CJD_PRNP_CCTCAGGGCGGTGGTGGCTGGGGGCAG", "CJD_PRNP"],
   "HGNCId": null,
@@ -830,8 +830,8 @@
 },
 {
   "LocusId": "EPM1_CSTB",
-  "LocusStructure": "(CGCGGGGCGGGG)*",
   "ReferenceRegion": "chr21:43776442-43776479",
+  "LocusStructure": "(CGCGGGGCGGGG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AR"],
@@ -843,8 +843,8 @@
 },
 {
   "LocusId": "TOF_TBX1",
-  "LocusStructure": "(GCN)*",
   "ReferenceRegion": "chr22:19766762-19766807",
+  "LocusStructure": "(GCN)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -856,8 +856,8 @@
 },
 {
   "LocusId": "SCA10_ATXN10",
-  "LocusStructure": "(ATTCT)*",
   "ReferenceRegion": "chr22:45795354-45795424",
+  "LocusStructure": "(ATTCT)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["AD"],
@@ -869,8 +869,8 @@
 },
 {
   "LocusId": "PRTS_ARX",
-  "LocusStructure": "(NGC)*",
   "ReferenceRegion": "chrX:25013529-25013565",
+  "LocusStructure": "(NGC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["XR"],
@@ -882,8 +882,8 @@
 },
 {
   "LocusId": "EIEE1_ARX",
-  "LocusStructure": "(NGC)*",
   "ReferenceRegion": "chrX:25013649-25013697",
+  "LocusStructure": "(NGC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["XR"],
@@ -895,8 +895,8 @@
 },
 {
   "LocusId": "DMD_DMD",
+  "ReferenceRegion": "chrX:31284557-31284605",
   "LocusStructure": "(TTC)*(T)*",
-  "ReferenceRegion": ["chrX:31284557-31284605", "chrX:31284605-31284613"],
   "VariantType": ["Repeat", "Repeat"],
   "VariantId": ["DMD_DMD", "DMD_DMD_T"],
   "HGNCId": null,
@@ -909,8 +909,8 @@
 },
 {
   "LocusId": "SBMA_AR",
-  "LocusStructure": "(GCA)*",
   "ReferenceRegion": "chrX:67545316-67545419",
+  "LocusStructure": "(GCA)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["XR"],
@@ -922,8 +922,8 @@
 },
 {
   "LocusId": "XDP_TAF1",
-  "LocusStructure": "(AGAGGG)*",
   "ReferenceRegion": "chrX:71453054-71453131",
+  "LocusStructure": "(AGAGGG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["XR"],
@@ -935,8 +935,8 @@
 },
 {
   "LocusId": "VACTERLX_ZIC3",
-  "LocusStructure": "(GCN)*",
   "ReferenceRegion": "chrX:137566826-137566856",
+  "LocusStructure": "(GCN)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["XR"],
@@ -948,8 +948,8 @@
 },
 {
   "LocusId": "XLMR_SOX3",
-  "LocusStructure": "(NGC)*",
   "ReferenceRegion": "chrX:140504316-140504361",
+  "LocusStructure": "(NGC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["XR"],
@@ -961,8 +961,8 @@
 },
 {
   "LocusId": "FXS_FMR1",
-  "LocusStructure": "(CGG)*",
   "ReferenceRegion": "chrX:147912049-147912111",
+  "LocusStructure": "(CGG)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["XD"],
@@ -974,8 +974,8 @@
 },
 {
   "LocusId": "FRAXE_AFF2",
-  "LocusStructure": "(GCC)*",
   "ReferenceRegion": "chrX:148500604-148500753",
+  "LocusStructure": "(GCC)*",
   "VariantType": "Repeat",
   "HGNCId": null,
   "InheritanceMode": ["XR"],
