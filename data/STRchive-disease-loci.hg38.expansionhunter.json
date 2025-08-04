@@ -1,6 +1,6 @@
 [
 {
-  "LocusId": "HMNR7_VWA1",
+  "LocusId": "VWA1",
   "ReferenceRegion": "chr1:1435798-1435818",
   "LocusStructure": "(GGCGCGGAGC)*",
   "VariantType": "Repeat",
@@ -13,7 +13,7 @@
   "Gene": "VWA1"
 },
 {
-  "LocusId": "SCA37_DAB1",
+  "LocusId": "DAB1",
   "ReferenceRegion": "chr1:57367043-57367121",
   "LocusStructure": "(AAAAT)*(GAAAT)*",
   "VariantType": ["Repeat", "Repeat"],
@@ -27,7 +27,7 @@
   "Gene": "DAB1"
 },
 {
-  "LocusId": "OPDM5_ABCD3",
+  "LocusId": "ABCD3",
   "ReferenceRegion": "chr1:94418421-94418444",
   "LocusStructure": "(GCC)*",
   "VariantType": "Repeat",
@@ -40,7 +40,7 @@
   "Gene": "ABCD3"
 },
 {
-  "LocusId": "NIID_NOTCH2NLC",
+  "LocusId": "NOTCH2NLC",
   "ReferenceRegion": "chr1:149390802-149390842",
   "LocusStructure": "(GGC)*",
   "VariantType": "Repeat",
@@ -53,7 +53,7 @@
   "Gene": "NOTCH2NLC"
 },
 {
-  "LocusId": "ADTKD_MUC1",
+  "LocusId": "MUC1",
   "ReferenceRegion": "chr1:155188505-155192239",
   "LocusStructure": "(GCCCACGGTGTCACCTCGGCCCCGGACACCAGGCCGGCCCCGGGCTCCACCGCCCCCCCCA)*",
   "VariantType": "Repeat",
@@ -66,7 +66,7 @@
   "Gene": "MUC1"
 },
 {
-  "LocusId": "NME_NAXE",
+  "LocusId": "NAXE",
   "ReferenceRegion": "chr1:156591765-156591783",
   "LocusStructure": "(GGGCC)*",
   "VariantType": "Repeat",
@@ -79,7 +79,7 @@
   "Gene": "NAXE"
 },
 {
-  "LocusId": "FAME2_STARD7",
+  "LocusId": "STARD7",
   "ReferenceRegion": "chr2:96197066-96197124",
   "LocusStructure": "(AAATG)*",
   "VariantType": "Repeat",
@@ -92,7 +92,7 @@
   "Gene": "STARD7"
 },
 {
-  "LocusId": "FRA2A_AFF3",
+  "LocusId": "AFF3",
   "ReferenceRegion": "chr2:100104798-100104824",
   "LocusStructure": "(GCC)*",
   "VariantType": "Repeat",
@@ -105,7 +105,7 @@
   "Gene": "AFF3"
 },
 {
-  "LocusId": "SD5_HOXD13",
+  "LocusId": "HOXD13",
   "ReferenceRegion": "chr2:176093058-176093103",
   "LocusStructure": "(GCN)*",
   "VariantType": "Repeat",
@@ -118,7 +118,7 @@
   "Gene": "HOXD13"
 },
 {
-  "LocusId": "GDPAG_GLS",
+  "LocusId": "GLS",
   "ReferenceRegion": "chr2:190880872-190880920",
   "LocusStructure": "(GCA)*",
   "VariantType": "Repeat",
@@ -131,7 +131,7 @@
   "Gene": "GLS"
 },
 {
-  "LocusId": "SCA7_ATXN7",
+  "LocusId": "ATXN7",
   "ReferenceRegion": ["chr3:63912684-63912715",
                       "chr3:63912715-63912727"],
   "LocusStructure": "(CAG)*(CCG)*",
@@ -146,7 +146,7 @@
   "Gene": "ATXN7"
 },
 {
-  "LocusId": "DM2_CNBP",
+  "LocusId": "CNBP",
   "ReferenceRegion": ["chr3:129172576-129172656",
                       "chr3:129172656-129172696",
                       "chr3:129172696-129172734"],
@@ -162,7 +162,7 @@
   "Gene": "CNBP"
 },
 {
-  "LocusId": "BPES_FOXL2",
+  "LocusId": "FOXL2",
   "ReferenceRegion": "chr3:138946019-138946062",
   "LocusStructure": "(NGC)*",
   "VariantType": "Repeat",
@@ -175,7 +175,7 @@
   "Gene": "FOXL2"
 },
 {
-  "LocusId": "FAME4_YEATS2",
+  "LocusId": "YEATS2",
   "ReferenceRegion": "chr3:183712187-183712226",
   "LocusStructure": "(TTTCA)*",
   "VariantType": "Repeat",
@@ -188,7 +188,7 @@
   "Gene": "YEATS2"
 },
 {
-  "LocusId": "HD_HTT",
+  "LocusId": "HTT",
   "ReferenceRegion": ["chr4:3074876-3074933",
                       "chr4:3074939-3074975"],
   "LocusStructure": "(CAG)*CAACAG(CCG)*",
@@ -203,7 +203,7 @@
   "Gene": "HTT"
 },
 {
-  "LocusId": "CANVAS_RFC1",
+  "LocusId": "RFC1",
   "ReferenceRegion": "chr4:39348424-39348483",
   "LocusStructure": "(AAGGG)*",
   "VariantType": "Repeat",
@@ -216,7 +216,7 @@
   "Gene": "RFC1"
 },
 {
-  "LocusId": "CCHS_PHOX2B",
+  "LocusId": "PHOX2B",
   "ReferenceRegion": "chr4:41745972-41746032",
   "LocusStructure": "(GCN)*",
   "VariantType": "Repeat",
@@ -229,7 +229,7 @@
   "Gene": "PHOX2B"
 },
 {
-  "LocusId": "FAME7_RAPGEF2",
+  "LocusId": "RAPGEF2",
   "ReferenceRegion": "chr4:159342526-159342618",
   "LocusStructure": "(TTTCA)*",
   "VariantType": "Repeat",
@@ -242,7 +242,7 @@
   "Gene": "RAPGEF2"
 },
 {
-  "LocusId": "FAME3_MARCHF6",
+  "LocusId": "MARCHF6",
   "ReferenceRegion": "chr5:10356343-10356411",
   "LocusStructure": "(TTTCA)*",
   "VariantType": "Repeat",
@@ -255,7 +255,7 @@
   "Gene": "MARCHF6"
 },
 {
-  "LocusId": "SCA12_PPP2R2B",
+  "LocusId": "PPP2R2B",
   "ReferenceRegion": "chr5:146878727-146878759",
   "LocusStructure": "(GCT)*",
   "VariantType": "Repeat",
@@ -268,7 +268,7 @@
   "Gene": "PPP2R2B"
 },
 {
-  "LocusId": "SCA1_ATXN1",
+  "LocusId": "ATXN1",
   "ReferenceRegion": "chr6:16327633-16327724",
   "LocusStructure": "(CTG)*",
   "VariantType": "Repeat",
@@ -281,7 +281,7 @@
   "Gene": "ATXN1"
 },
 {
-  "LocusId": "CCD_RUNX2",
+  "LocusId": "RUNX2",
   "ReferenceRegion": "chr6:45422750-45422801",
   "LocusStructure": "(GCN)*",
   "VariantType": "Repeat",
@@ -294,7 +294,7 @@
   "Gene": "RUNX2"
 },
 {
-  "LocusId": "SCA17_TBP",
+  "LocusId": "TBP",
   "ReferenceRegion": "chr6:170561906-170562017",
   "LocusStructure": "(GCA)*",
   "VariantType": "Repeat",
@@ -346,7 +346,7 @@
   "Gene": "HOXA13"
 },
 {
-  "LocusId": "FRA7A_ZNF713",
+  "LocusId": "ZNF713",
   "ReferenceRegion": "chr7:55887600-55887639",
   "LocusStructure": "(GCG)*",
   "VariantType": "Repeat",
@@ -359,7 +359,7 @@
   "Gene": "ZNF713"
 },
 {
-  "LocusId": "OPDM1_LRP12",
+  "LocusId": "LRP12",
   "ReferenceRegion": "chr8:104588970-104588999",
   "LocusStructure": "(CGC)*",
   "VariantType": "Repeat",
@@ -372,7 +372,7 @@
   "Gene": "LRP12"
 },
 {
-  "LocusId": "FAME1_SAMD12",
+  "LocusId": "SAMD12",
   "ReferenceRegion": "chr8:118366812-118366918",
   "LocusStructure": "(TGAAA)*",
   "VariantType": "Repeat",
@@ -385,7 +385,7 @@
   "Gene": "SAMD12"
 },
 {
-  "LocusId": "FTDALS1_C9orf72",
+  "LocusId": "C9orf72",
   "ReferenceRegion": "chr9:27573484-27573546",
   "LocusStructure": "(GGCCCC)*",
   "VariantType": "Repeat",
@@ -398,7 +398,7 @@
   "Gene": "C9orf72"
 },
 {
-  "LocusId": "FRDA_FXN",
+  "LocusId": "FXN",
   "ReferenceRegion": ["chr9:69037304-69037320",
                       "chr9:69037286-69037304"],
   "LocusStructure": "(A)*(GAA)*",
@@ -413,7 +413,7 @@
   "Gene": "FXN"
 },
 {
-  "LocusId": "HSAN-VIII_PRDM12",
+  "LocusId": "PRDM12",
   "ReferenceRegion": "chr9:130681605-130681641",
   "LocusStructure": "(GCC)*",
   "VariantType": "Repeat",
@@ -426,7 +426,7 @@
   "Gene": "PRDM12"
 },
 {
-  "LocusId": "OPML1_NUTM2B-AS1",
+  "LocusId": "NUTM2B-AS1",
   "ReferenceRegion": "chr10:79826383-79826404",
   "LocusStructure": "(GGC)*",
   "VariantType": "Repeat",
@@ -439,7 +439,7 @@
   "Gene": "NUTM2B-AS1"
 },
 {
-  "LocusId": "JBS_CBL",
+  "LocusId": "CBL",
   "ReferenceRegion": "chr11:119206289-119206323",
   "LocusStructure": "(CGG)*",
   "VariantType": "Repeat",
@@ -452,7 +452,7 @@
   "Gene": "CBL"
 },
 {
-  "LocusId": "DRPLA_ATN1",
+  "LocusId": "ATN1",
   "ReferenceRegion": "chr12:6936716-6936775",
   "LocusStructure": "(CAG)*",
   "VariantType": "Repeat",
@@ -465,7 +465,7 @@
   "Gene": "ATN1"
 },
 {
-  "LocusId": "FRA12A_DIP2B",
+  "LocusId": "DIP2B",
   "ReferenceRegion": "chr12:50505001-50505024",
   "LocusStructure": "(GGC)*",
   "VariantType": "Repeat",
@@ -478,7 +478,7 @@
   "Gene": "DIP2B"
 },
 {
-  "LocusId": "SCA2_ATXN2",
+  "LocusId": "ATXN2",
   "ReferenceRegion": "chr12:111598949-111599019",
   "LocusStructure": "(CTG)*",
   "VariantType": "Repeat",
@@ -491,7 +491,7 @@
   "Gene": "ATXN2"
 },
 {
-  "LocusId": "OPDM4_RILPL1",
+  "LocusId": "RILPL1",
   "ReferenceRegion": "chr12:123533720-123533750",
   "LocusStructure": "(GGC)*",
   "VariantType": "Repeat",
@@ -504,7 +504,7 @@
   "Gene": "RILPL1"
 },
 {
-  "LocusId": "SCA8_ATXN8OS",
+  "LocusId": "ATXN8OS",
   "ReferenceRegion": ["chr13:70139429-70139459",
                       "chr13:70139383-70139429"],
   "LocusStructure": "(CTA)*(CTG)*",
@@ -519,7 +519,7 @@
   "Gene": "ATXN8OS"
 },
 {
-  "LocusId": "HPE5_ZIC2",
+  "LocusId": "ZIC2",
   "ReferenceRegion": "chr13:99985448-99985494",
   "LocusStructure": "(GCN)*",
   "VariantType": "Repeat",
@@ -532,7 +532,7 @@
   "Gene": "ZIC2"
 },
 {
-  "LocusId": "SCA27B_FGF14",
+  "LocusId": "FGF14",
   "ReferenceRegion": "chr13:102161574-102161726",
   "LocusStructure": "(GAA)*",
   "VariantType": "Repeat",
@@ -545,7 +545,7 @@
   "Gene": "FGF14"
 },
 {
-  "LocusId": "OPMD_PABPN1",
+  "LocusId": "PABPN1",
   "ReferenceRegion": "chr14:23321472-23321503",
   "LocusStructure": "(GCN)*",
   "VariantType": "Repeat",
@@ -558,7 +558,7 @@
   "Gene": "PABPN1"
 },
 {
-  "LocusId": "SCA3_ATXN3",
+  "LocusId": "ATXN3",
   "ReferenceRegion": "chr14:92071010-92071052",
   "LocusStructure": "(CTG)*",
   "VariantType": "Repeat",
@@ -571,7 +571,7 @@
   "Gene": "ATXN3"
 },
 {
-  "LocusId": "ALS1_NIPA1",
+  "LocusId": "NIPA1",
   "ReferenceRegion": "chr15:22786677-22786703",
   "LocusStructure": "(GCG)*",
   "VariantType": "Repeat",
@@ -584,7 +584,7 @@
   "Gene": "NIPA1"
 },
 {
-  "LocusId": "pre-MIR7-2_CHNG3",
+  "LocusId": "pre-MIR7-2",
   "ReferenceRegion": "chr15:88569433-88569452",
   "LocusStructure": "(TTTG)*",
   "VariantType": "Repeat",
@@ -597,7 +597,7 @@
   "Gene": "pre-MIR7-2"
 },
 {
-  "LocusId": "CPEO_POLG",
+  "LocusId": "POLG",
   "ReferenceRegion": "chr15:89333588-89333629",
   "LocusStructure": "(GCT)*GTT(GCT)*",
   "VariantType": ["Repeat", "Repeat"],
@@ -611,7 +611,7 @@
   "Gene": "POLG"
 },
 {
-  "LocusId": "DBQD2_XYLT1",
+  "LocusId": "XYLT1",
   "ReferenceRegion": "chr16:17470907-17470922",
   "LocusStructure": "(GCC)*",
   "VariantType": ["Repeat"],
@@ -625,7 +625,7 @@
   "Gene": "XYLT1"
 },
 {
-  "LocusId": "FAME6_TNRC6A",
+  "LocusId": "TNRC6A",
   "ReferenceRegion": "chr16:24613438-24613532",
   "LocusStructure": "(TTTCA)*",
   "VariantType": "Repeat",
@@ -638,7 +638,7 @@
   "Gene": "TNRC6A"
 },
 {
-  "LocusId": "SCA31_BEAN1",
+  "LocusId": "BEAN1",
   "ReferenceRegion": "chr16:66490396-66490466",
   "LocusStructure": "(TGGAA)*",
   "VariantType": "Repeat",
@@ -651,7 +651,7 @@
   "Gene": "BEAN1"
 },
 {
-  "LocusId": "SCA_THAP11",
+  "LocusId": "THAP11",
   "ReferenceRegion": "chr16:67842862-67842950",
   "LocusStructure": "(CAG)*",
   "VariantType": "Repeat",
@@ -664,7 +664,7 @@
   "Gene": "THAP11"
 },
 {
-  "LocusId": "SCA4_ZFHX3",
+  "LocusId": "ZFHX3",
   "ReferenceRegion": "chr16:72787694-72787758",
   "LocusStructure": "(GCC)*",
   "VariantType": "Repeat",
@@ -677,7 +677,7 @@
   "Gene": "ZFHX3"
 },
 {
-  "LocusId": "HDL2_JPH3",
+  "LocusId": "JPH3",
   "ReferenceRegion": "chr16:87604282-87604329",
   "LocusStructure": "(CTG)*",
   "VariantType": "Repeat",
@@ -690,7 +690,7 @@
   "Gene": "JPH3"
 },
 {
-  "LocusId": "FAME8_RAI1",
+  "LocusId": "RAI1",
   "ReferenceRegion": "chr17:17808358-17808460",
   "LocusStructure": "(TTTCA)*",
   "VariantType": "Repeat",
@@ -703,7 +703,7 @@
   "Gene": "RAI1"
 },
 {
-  "LocusId": "RCPS_EIF4A3",
+  "LocusId": "EIF4A3",
   "ReferenceRegion": "chr17:80147009-80147139",
   "LocusStructure": "(CCTCGCTGTGCCGCTGCCGA)*",
   "VariantType": "Repeat",
@@ -716,7 +716,7 @@
   "Gene": "EIF4A3"
 },
 {
-  "LocusId": "CPUM_TYMS",
+  "LocusId": "TYMS",
   "ReferenceRegion": "chr18:666891-667632",
   "LocusStructure": "(GATGGT)*",
   "VariantType": "Repeat",
@@ -729,7 +729,7 @@
   "Gene": "TYMS"
 },
 {
-  "LocusId": "FECD3_TCF4",
+  "LocusId": "TCF4",
   "ReferenceRegion": "chr18:55586153-55586229",
   "LocusStructure": "(CAG)*",
   "VariantType": "Repeat",
@@ -742,7 +742,7 @@
   "Gene": "TCF4"
 },
 {
-  "LocusId": "MRUPAV_PLIN4",
+  "LocusId": "PLIN4",
   "ReferenceRegion": "chr19:4510727-4513659",
   "LocusStructure": "(TGGTGTCCACGCCGGTCTGGATGGTTCCTTTGGCCACATTCATGGCACCAGTCACCCCACTACAGACGGTGTCCTTGGTACCTGTTAGGACAGTCTTAC)*",
   "VariantType": "Repeat",
@@ -755,7 +755,7 @@
   "Gene": "PLIN4"
 },
 {
-  "LocusId": "SCA6_CACNA1A",
+  "LocusId": "CACNA1A",
   "ReferenceRegion": "chr19:13207858-13207898",
   "LocusStructure": "(CTG)*",
   "VariantType": "Repeat",
@@ -768,7 +768,7 @@
   "Gene": "CACNA1A"
 },
 {
-  "LocusId": "OPDM2_GIPC1",
+  "LocusId": "GIPC1",
   "ReferenceRegion": "chr19:14496041-14496075",
   "LocusStructure": "(CCG)*",
   "VariantType": "Repeat",
@@ -781,7 +781,7 @@
   "Gene": "GIPC1"
 },
 {
-  "LocusId": "EDM1-PSACH_COMP",
+  "LocusId": "COMP",
   "ReferenceRegion": "chr19:18786034-18786050",
   "LocusStructure": "(GTC)*",
   "VariantType": "Repeat",
@@ -794,7 +794,7 @@
   "Gene": "COMP"
 },
 {
-  "LocusId": "DM1_DMPK",
+  "LocusId": "DMPK",
   "ReferenceRegion": "chr19:45770204-45770266",
   "LocusStructure": "(CAG)*",
   "VariantType": "Repeat",
@@ -807,7 +807,7 @@
   "Gene": "DMPK"
 },
 {
-  "LocusId": "SCA36_NOP56",
+  "LocusId": "NOP56",
   "ReferenceRegion": ["chr20:2652732-2652757",
                       "chr20:2652757-2652775"],
   "LocusStructure": "(GGCCTG)*(CGCCTG)*",
@@ -822,7 +822,7 @@
   "Gene": "NOP56"
 },
 {
-  "LocusId": "CJD_PRNP",
+  "LocusId": "PRNP",
   "ReferenceRegion": ["chr20:4699493-4699520",
                       "chr20:4699397-4699493"],
   "LocusStructure": "(CCTCAGGGCGGTGGTGGCTGGGGGCAG)*(CCTCATGGTGGTGGCTGGGGGCAG)*",
@@ -837,7 +837,7 @@
   "Gene": "PRNP"
 },
 {
-  "LocusId": "EPM1_CSTB",
+  "LocusId": "CSTB",
   "ReferenceRegion": "chr21:43776442-43776479",
   "LocusStructure": "(CGCGGGGCGGGG)*",
   "VariantType": "Repeat",
@@ -850,7 +850,7 @@
   "Gene": "CSTB"
 },
 {
-  "LocusId": "TOF_TBX1",
+  "LocusId": "TBX1",
   "ReferenceRegion": "chr22:19766762-19766807",
   "LocusStructure": "(GCN)*",
   "VariantType": "Repeat",
@@ -863,7 +863,7 @@
   "Gene": "TBX1"
 },
 {
-  "LocusId": "SCA10_ATXN10",
+  "LocusId": "ATXN10",
   "ReferenceRegion": "chr22:45795354-45795424",
   "LocusStructure": "(ATTCT)*",
   "VariantType": "Repeat",
@@ -876,7 +876,7 @@
   "Gene": "ATXN10"
 },
 {
-  "LocusId": "PRTS_ARX",
+  "LocusId": "ARX",
   "ReferenceRegion": "chrX:25013529-25013565",
   "LocusStructure": "(NGC)*",
   "VariantType": "Repeat",
@@ -889,7 +889,7 @@
   "Gene": "ARX"
 },
 {
-  "LocusId": "EIEE1_ARX",
+  "LocusId": "ARX",
   "ReferenceRegion": "chrX:25013649-25013697",
   "LocusStructure": "(NGC)*",
   "VariantType": "Repeat",
@@ -902,7 +902,7 @@
   "Gene": "ARX"
 },
 {
-  "LocusId": "DMD_DMD",
+  "LocusId": "DMD",
   "ReferenceRegion": ["chrX:31284557-31284605",
                       "chrX:31284605-31284613"],
   "LocusStructure": "(TTC)*(T)*",
@@ -917,7 +917,7 @@
   "Gene": "DMD"
 },
 {
-  "LocusId": "SBMA_AR",
+  "LocusId": "AR",
   "ReferenceRegion": "chrX:67545316-67545419",
   "LocusStructure": "(GCA)*",
   "VariantType": "Repeat",
@@ -930,7 +930,7 @@
   "Gene": "AR"
 },
 {
-  "LocusId": "XDP_TAF1",
+  "LocusId": "TAF1",
   "ReferenceRegion": "chrX:71453054-71453131",
   "LocusStructure": "(AGAGGG)*",
   "VariantType": "Repeat",
@@ -943,7 +943,7 @@
   "Gene": "TAF1"
 },
 {
-  "LocusId": "VACTERLX_ZIC3",
+  "LocusId": "ZIC3",
   "ReferenceRegion": "chrX:137566826-137566856",
   "LocusStructure": "(GCN)*",
   "VariantType": "Repeat",
@@ -956,7 +956,7 @@
   "Gene": "ZIC3"
 },
 {
-  "LocusId": "XLMR_SOX3",
+  "LocusId": "SOX3",
   "ReferenceRegion": "chrX:140504316-140504361",
   "LocusStructure": "(NGC)*",
   "VariantType": "Repeat",
@@ -969,7 +969,7 @@
   "Gene": "SOX3"
 },
 {
-  "LocusId": "FXS_FMR1",
+  "LocusId": "FMR1",
   "ReferenceRegion": "chrX:147912049-147912111",
   "LocusStructure": "(CGG)*",
   "VariantType": "Repeat",
@@ -982,7 +982,7 @@
   "Gene": "FMR1"
 },
 {
-  "LocusId": "FRAXE_AFF2",
+  "LocusId": "AFF2",
   "ReferenceRegion": "chrX:148500604-148500753",
   "LocusStructure": "(GCC)*",
   "VariantType": "Repeat",
