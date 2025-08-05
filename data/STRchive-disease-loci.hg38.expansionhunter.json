@@ -9,7 +9,7 @@
   "DisplayRU": "GGCGCGGAGC",
   "Disease": "HMNR7",
   "NormalMax": 2.0,
-  "PathologicMin": 1.0,
+  "PathologicMin": 3.0,
   "Gene": "VWA1"
 },
 {
