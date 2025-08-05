@@ -53,19 +53,6 @@
   "Gene": "NOTCH2NLC"
 },
 {
-  "LocusId": "MUC1",
-  "ReferenceRegion": "chr1:155188505-155192239",
-  "LocusStructure": "(GCCCACGGTGTCACCTCGGCCCCGGACACCAGGCCGGCCCCGGGCTCCACCGCCCCCCCCA)*",
-  "VariantType": "Repeat",
-  "HGNCId": null,
-  "InheritanceMode": ["AD"],
-  "DisplayRU": "GCCCACGGTGTCACCTCGGCCCCGGACACCAGGCCGGCCCCGGGCTCCACCGCCCCCCCCA",
-  "Disease": "ADTKD",
-  "NormalMax": null,
-  "PathologicMin": null,
-  "Gene": "MUC1"
-},
-{
   "LocusId": "NAXE",
   "ReferenceRegion": "chr1:156591765-156591783",
   "LocusStructure": "(GGGCC)*",
@@ -87,7 +74,7 @@
   "InheritanceMode": ["AD"],
   "DisplayRU": "AAATG",
   "Disease": "FAME2",
-  "NormalMax": null,
+  "NormalMax": 273.0,
   "PathologicMin": 274.0,
   "Gene": "STARD7"
 },
@@ -183,7 +170,7 @@
   "InheritanceMode": ["AD"],
   "DisplayRU": "TTTCA",
   "Disease": "FAME4",
-  "NormalMax": null,
+  "NormalMax": 990.0,
   "PathologicMin": 1000.0,
   "Gene": "YEATS2"
 },
@@ -237,7 +224,7 @@
   "InheritanceMode": ["AD"],
   "DisplayRU": "TTTCA",
   "Disease": "FAME7",
-  "NormalMax": null,
+  "NormalMax": 59.0,
   "PathologicMin": 60.0,
   "Gene": "RAPGEF2"
 },
@@ -250,7 +237,7 @@
   "InheritanceMode": ["AD"],
   "DisplayRU": "TTTCA",
   "Disease": "FAME3",
-  "NormalMax": null,
+  "NormalMax": 790.0,
   "PathologicMin": 791.0,
   "Gene": "MARCHF6"
 },
@@ -380,7 +367,7 @@
   "InheritanceMode": ["AD"],
   "DisplayRU": "TGAAA",
   "Disease": "FAME1",
-  "NormalMax": null,
+  "NormalMax": 104.0,
   "PathologicMin": 105.0,
   "Gene": "SAMD12"
 },
@@ -607,7 +594,7 @@
   "DisplayRU": "GCT",
   "Disease": "CPEO",
   "NormalMax": 10.0,
-  "PathologicMin": null,
+  "PathologicMin": 11.0,
   "Gene": "POLG"
 },
 {
@@ -633,7 +620,7 @@
   "InheritanceMode": ["AD"],
   "DisplayRU": "TTTCA",
   "Disease": "FAME6",
-  "NormalMax": null,
+  "NormalMax": 1000,
   "PathologicMin": 1100.0,
   "Gene": "TNRC6A"
 },
@@ -646,7 +633,7 @@
   "InheritanceMode": ["AD"],
   "DisplayRU": "TGGAA",
   "Disease": "SCA31",
-  "NormalMax": null,
+  "NormalMax": 100.0,
   "PathologicMin": 110.0,
   "Gene": "BEAN1"
 },
@@ -698,7 +685,7 @@
   "InheritanceMode": ["AD"],
   "DisplayRU": "TTTCA",
   "Disease": "FAME8",
-  "NormalMax": null,
+  "NormalMax": 8.0,
   "PathologicMin": 9.0,
   "Gene": "RAI1"
 },
@@ -938,7 +925,7 @@
   "InheritanceMode": ["XR"],
   "DisplayRU": "AGAGGG",
   "Disease": "XDP",
-  "NormalMax": null,
+  "NormalMax": 34.0,
   "PathologicMin": 35.0,
   "Gene": "TAF1"
 },
